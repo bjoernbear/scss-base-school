@@ -1,0 +1,11 @@
+// Get base settings
+@use 'base';
+
+// Get main layout settings
+@use 'layout';
+
+// Get our pages
+@use 'pages';
+
+// Get third-part styles (sliders etc.)
+@use 'vendor';
